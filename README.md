@@ -1,5 +1,5 @@
 # A Brief Explanation
-Here we are given a dataset consisting of different domains. For each image, a feature vector and it's label is given. The label demonstrates the content of the image itself and we have no information about the domains label nor the number of domains.
+Here we are given a dataset consisting of different domains. For each image, a feature vector and its label is given. The label demonstrates the content of the image itself and we have no information about the domains label nor the number of domains.
 # Step 1: Clustering
 Firstly, we selected the best clustering algorithm and checked whether the algorithm we had chosen and the parameters we had set were suitable for clustering the data or not. We used visualization method to evaluate our clustering.
 # Step 2: Finding the number of domains
